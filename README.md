@@ -41,13 +41,11 @@ A hands-on digital forensics investigation project where I acquired a forensic i
 ---
 
 # Case Report
-flowergirl.docx
+flower girl.pdf
 
 ---
 
-# Screenshots
-Screenshots of evidence recovery and Autopsy UI will go here  
-Screenshots/
+
 
 ---
 
